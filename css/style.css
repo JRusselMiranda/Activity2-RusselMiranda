@@ -135,3 +135,44 @@ a{
 a:hover{
     color: yellow;
 }
+
+#services{
+    background-color: rgb(241, 241, 241);
+    margin-top: 160px;
+    height: 476px;
+}
+
+#services h2{
+  padding-top: 155px;
+  font-size: 45px;
+  text-align: center;
+}  
+ul{
+    margin-top: 40px;
+    text-align: center;
+}
+li:nth-child(1){
+    font-size: 20px;
+    width: 230px;
+    height: 98px;
+    padding: 38px;
+    background-color: orangered;
+    margin-right: 38px;
+}  
+
+li{
+    font-size: 20px;
+    background-color: white;
+    width: 230px;
+    height: 98px;
+    padding: 38px;
+    margin-right: 40px;
+    display: inline-block;
+}
+
+li:hover{
+    box-shadow: 0px 0px 15px 1px lightslategray;
+}
+li:nth-child(1):hover{
+    box-shadow: 0px 0px 15px 1px rgb(77, 72, 72);
+}
