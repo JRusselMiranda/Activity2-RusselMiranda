@@ -126,3 +126,12 @@ div p{
    margin-bottom: 25px;
    line-height: 1.4;
 }
+a{
+    color: rgb(128, 128, 128);
+    padding-left: 36px;
+    padding-right: 40px;
+    text-decoration: none;
+}
+a:hover{
+    color: yellow;
+}
