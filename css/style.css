@@ -13,3 +13,10 @@
     height: 98vh;
     box-shadow: 0 -160px 320px 1px rgb(156, 156, 156) inset;
 }
+
+#landing h1{
+    font-size: 64px;
+    padding-top: 17px;
+    position: relative;
+    text-shadow: 2px 2px 1px black;
+}
