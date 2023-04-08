@@ -114,3 +114,15 @@ box-shadow: 0px 2px 3px rgb(234,220,220);
     text-align: center;
     padding-right: 230px;
 }
+
+div p{
+    color: black;
+    padding: 5px;
+    text-align: start;
+}
+div p{
+   margin-left: 30px;
+   margin-top: 10px;
+   margin-bottom: 25px;
+   line-height: 1.4;
+}
